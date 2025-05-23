@@ -1,7 +1,5 @@
 # Verifying Fault Tolerance of Quantum Error Correction Codes
 
-Artifact and software package.
-
 ## Prerequisite
 
 * `docker` is required to perform artifact evaluation.
