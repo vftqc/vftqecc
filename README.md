@@ -1,4 +1,4 @@
-# Verifying Fault Tolerance of Quantum Error Correction Codes
+# Verifying Fault-Tolerance of Quantum Error Correction Codes
 
 ## Prerequisite
 
